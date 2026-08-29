@@ -13,8 +13,12 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/muhamathu-ameer-ali/">
+  <a href="https://www.linkedin.com/in/aacaas-muhamathu-023765430/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:aacaas05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email AACAAS" />
   </a>
   &nbsp;
   <a href="https://github.com/aacaas5">
@@ -144,48 +148,72 @@ I increasingly structure projects as small experimental studies rather than only
 
 ---
 
-## Technical Toolbox
+## Tech Stack
 
-### Languages
+### 🔗 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab&theme=dark" alt="Python, C++, and MATLAB" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,js&theme=dark" alt="Python, C++, MATLAB, and JavaScript" />
 </p>
 
-### AI & Computer Vision
+### 🧠 AI, Machine Learning & Computer Vision
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, and scikit-learn" />
 </p>
 
-NumPy · pandas · Qwen2.5-VL · DINOv2 · YOLO · Streamlit
-
-### Robotics & Autonomous Systems
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Qwen2.5--VL-615CED?style=for-the-badge" alt="Qwen2.5-VL" />
+  <img src="https://img.shields.io/badge/DINOv2-0467DF?style=for-the-badge" alt="DINOv2" />
 </p>
 
-ArduPilot · Gazebo · MAVROS · rosbridge
-
-### Embedded & Electronics
+### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs&theme=dark" alt="HTML, CSS, JavaScript, React, and Three.js" />
 </p>
 
-Sensors · Data Acquisition · Microcontrollers · DAQ Systems
+### 🤖 Robotics, Autonomous Systems & Embedded
 
-### Engineering & Simulation
-Simulink · LabVIEW · Signal Processing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,arduino&theme=dark" alt="ROS and Arduino" />
+</p>
 
-### Development
+<p align="center">
+  <img src="https://img.shields.io/badge/ArduPilot-0D7FBD?style=for-the-badge&logo=ardupilot&logoColor=white" alt="ArduPilot" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/MAVROS-334155?style=for-the-badge" alt="MAVROS" />
+  <img src="https://img.shields.io/badge/Sensors-0891B2?style=for-the-badge" alt="Sensors" />
+  <img src="https://img.shields.io/badge/Data_Acquisition-0F766E?style=for-the-badge" alt="Data Acquisition" />
+</p>
+
+### ⚡ Power Systems, CAD & Engineering Simulation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=autocad,matlab&theme=dark" alt="AutoCAD and MATLAB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PSCAD-005DAA?style=for-the-badge" alt="PSCAD" />
+  <img src="https://img.shields.io/badge/PSS%C2%AEE-1F4E79?style=for-the-badge" alt="PSS®E" />
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Simulink-F59E0B?style=for-the-badge" alt="Simulink" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
+</p>
+
+### 🛠️ Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
 </p>
 
-Jupyter Notebooks
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
+</p>
 
 ---
 
@@ -199,9 +227,9 @@ Exploring reliability in visual intelligence—particularly how models behave un
 
 **GitHub:** [github.com/aacaas5](https://github.com/aacaas5)
 
-**LinkedIn:** [linkedin.com/in/muhamathu-ameer-ali](https://linkedin.com/in/muhamathu-ameer-ali)
+**LinkedIn:** [linkedin.com/in/aacaas-muhamathu-023765430](https://www.linkedin.com/in/aacaas-muhamathu-023765430/)
 
-<!-- **Email:** [your.email@example.com](mailto:your.email@example.com) -->
+**Email:** [aacaas05@gmail.com](mailto:aacaas05@gmail.com)
 
 ---
 
