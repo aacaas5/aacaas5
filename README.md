@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn" width="100%" alt="Profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:F72585&height=150&section=header&animation=fadeIn" width="100%" alt="Colorful profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhamathu+Ameer+Ali;Electrical+Engineering+Undergraduate;AI+%7C+Computer+Vision+%7C+Robotics" alt="Muhamathu Ameer Ali — Electrical Engineering, AI, Computer Vision, and Robotics" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=960&lines=AACAAS;Electrical+Engineering+Undergraduate;AI+%7C+Computer+Vision+%7C+Robotics" alt="AACAAS — Electrical Engineering, AI, Computer Vision, and Robotics" />
 
 <br />
 
 <p>
-  <img src="https://img.shields.io/badge/Electrical_Engineering-University_of_Moratuwa-7C3AED?style=flat-square" alt="Electrical Engineering at the University of Moratuwa" />
+  <img src="https://img.shields.io/badge/Electrical_Engineering-University_of_Moratuwa-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Electrical Engineering at the University of Moratuwa" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Sri_Lanka-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Sri Lanka" />
 </p>
@@ -207,4 +207,4 @@ Exploring reliability in visual intelligence—particularly how models behave un
 
 *Last updated: August 30, 2026*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7C3AED,100:00C6FF&height=120&section=footer" width="100%" alt="Colorful profile footer" />
