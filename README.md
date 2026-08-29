@@ -4,6 +4,10 @@
 
 University of Moratuwa, Sri Lanka
 
+<p align="center">
+  <img src="./assets/tech-stack-3d.png" alt="3D technology stack featuring Python, C++, ROS 2, Arduino, PyTorch, and OpenCV" width="100%" />
+</p>
+
 ---
 
 I am an electrical engineering undergraduate interested in building and studying intelligent systems across both hardware and software. My work spans computer vision, reliable machine learning, multimodal visual reasoning, robotics, autonomous systems, sensing, embedded systems, and control.
