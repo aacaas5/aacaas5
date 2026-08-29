@@ -1,12 +1,28 @@
-# Hi, I'm Muhamathu Ameer Ali
+<div align="center">
 
-**Electrical Engineering Undergraduate** | AI · Computer Vision · Robotics · Intelligent Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&animation=fadeIn" width="100%" alt="Profile header" />
 
-University of Moratuwa, Sri Lanka
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhamathu+Ameer+Ali;Electrical+Engineering+Undergraduate;AI+%7C+Computer+Vision+%7C+Robotics" alt="Muhamathu Ameer Ali — Electrical Engineering, AI, Computer Vision, and Robotics" />
 
-<p align="center">
-  <img src="./assets/tech-stack-3d.png" alt="3D technology stack featuring Python, C++, ROS 2, Arduino, PyTorch, and OpenCV" width="100%" />
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Electrical_Engineering-University_of_Moratuwa-7C3AED?style=flat-square" alt="Electrical Engineering at the University of Moratuwa" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Sri_Lanka-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Sri Lanka" />
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/muhamathu-ameer-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aacaas5">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -130,20 +146,46 @@ I increasingly structure projects as small experimental studies rather than only
 
 ## Technical Toolbox
 
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab&theme=dark" alt="Python, C++, and MATLAB" />
+</p>
+
 ### AI & Computer Vision
-PyTorch · OpenCV · scikit-learn · NumPy · pandas · Qwen2.5-VL · DINOv2 · YOLO · Streamlit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, and scikit-learn" />
+</p>
+
+NumPy · pandas · Qwen2.5-VL · DINOv2 · YOLO · Streamlit
 
 ### Robotics & Autonomous Systems
-ROS 2 · ArduPilot · Gazebo · MAVROS · rosbridge
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" />
+</p>
+
+ArduPilot · Gazebo · MAVROS · rosbridge
 
 ### Embedded & Electronics
-Arduino · Sensors · Data Acquisition · Microcontrollers · DAQ Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+</p>
+
+Sensors · Data Acquisition · Microcontrollers · DAQ Systems
 
 ### Engineering & Simulation
-MATLAB · Simulink · LabVIEW · Signal Processing
+Simulink · LabVIEW · Signal Processing
 
 ### Development
-Python · C++ · Git · GitHub · VS Code · Jupyter Notebooks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
+</p>
+
+Jupyter Notebooks
 
 ---
 
@@ -164,3 +206,5 @@ Exploring reliability in visual intelligence—particularly how models behave un
 ---
 
 *Last updated: August 30, 2026*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="Profile footer" />
