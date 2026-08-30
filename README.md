@@ -22,13 +22,12 @@
 
 ## Hello, I am AACAAS
 
-I am an Electrical Engineering undergraduate at the University of Moratuwa building intelligent systems across **AI, computer vision, robotics, sensing, embedded systems, and control**.
-
-My main research interest is **reliable intelligence**: understanding how models and autonomous systems behave when evidence is missing, inputs shift, sensors are corrupted, or real-world assumptions fail. I turn those questions into reproducible experiments and end-to-end engineering systems.
-
-> **Current focus:** reliable visual reasoning, uncertainty and calibration, out-of-distribution detection, autonomous perception, and sensor-to-action systems.
-
----
+I am an Electrical Engineering undergraduate at the University of Moratuwa with strong interests in computer vision, electrical
+and control systems, artificial intelligence, vision-language models, and reliable machine learning.
+My work combines mathematical modelling, simulation, experimental evaluation, software development, and
+practical implementation across robotics, embedded systems, sensing, and autonomous systems. I am particularly
+interested in building intelligent systems that remain reliable under uncertainty, missing information, and changing real-world
+conditions.
 
 ## Featured Work
 
