@@ -88,15 +88,56 @@ An integrated AI, robotics, and embedded platform that moves between potted plan
 
 ---
 
+### 5. Dual-Signal OOD Gating for Skin-Cancer Classification
+
+[![Repository](https://img.shields.io/badge/View_Repository-Dual--Signal_OOD_Gating-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection)
+
+A research prototype for open-set skin-lesion classification that combines a ResNet50 classifier with two rejection signals: ViT embedding distance and Energy + ReAct scoring. A Flask application provides both browser-based uploads and a JSON prediction API.
+
+- Classifies three lesion categories while rejecting unsupported inputs before classification.
+- Exposes gate scores, thresholds, pass/fail states, confidence, and class probabilities.
+- Includes model research, OOD benchmarking, exported artifacts, technical documentation, and an application interface.
+
+`ResNet50` `Vision Transformer` `Energy + ReAct` `PyTorch` `Flask` `OOD Detection`
+
+> Research use only; this prototype is not a validated medical device.
+
+---
+
+### 6. Reliable Machine-Failure Prediction
+
+[![Repository](https://img.shields.io/badge/View_Repository-Reliable_Machine_Failure_Prediction-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data)
+
+A predictive-maintenance study that treats machine-failure classification as a reliability problem. The same Random Forest model is evaluated under class imbalance, sensor noise, missing measurements, and limited training data.
+
+- Compares clean performance with controlled corruption and data-scarcity scenarios.
+- Shows recall falling from **82.35%** on clean data to **66.67%** with sensor noise and **50.98%** with missing measurements.
+- Uses SHAP analysis to explain confident detections and missed failures.
+
+`Random Forest` `SHAP` `Sensor Data` `Imbalanced Learning` `Robustness`
+
+---
+
+### 7. Real-Time Object-Detection Robustness Analysis
+
+[![Repository](https://img.shields.io/badge/View_Repository-Object_Detection_Robustness-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/real-time-object-detection-robustness-analysis)
+
+A YOLO-based real-time detection system and controlled study of how detector behavior changes under low light, blur, scale, occlusion, and confidence-threshold variation.
+
+- Tracks confidence, detection count, FPS, and latency during live webcam inference.
+- Reveals non-monotonic detector responses that simple threshold metrics can miss.
+- Includes reproducible experiment infrastructure and an interactive Streamlit dashboard.
+
+`YOLO` `OpenCV` `Streamlit` `Computer Vision` `Robustness Analysis`
+
+---
+
 ## More Projects
 
 Each title links directly to its repository.
 
 | Project | What it demonstrates | Focus |
 |---|---|---|
-| [Dual-Signal OOD Gating for Skin-Cancer Classification](https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection) | Research prototype combining a ResNet50 classifier with ViT-distance and Energy + ReAct gates to reject unsupported inputs; includes a Flask interface and API. | Open-set recognition, medical imaging, Flask |
-| [Reliable Machine-Failure Prediction](https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data) | Evaluates predictive-maintenance reliability under imbalance, sensor noise, missing measurements, and limited training data, with SHAP explanations. | Sensor ML, reliability, explainability |
-| [Real-Time Object-Detection Robustness Analysis](https://github.com/aacaas5/real-time-object-detection-robustness-analysis) | Measures YOLO behavior under brightness, blur, scale, occlusion, and confidence-threshold changes, with a live Streamlit dashboard. | YOLO, OpenCV, Streamlit |
 | [Visual Representation Analysis with CNNs](https://github.com/aacaas5/visual-representation-analysis-cnn) | Explores CIFAR-10 representations using feature maps, PCA, confidence analysis, confusion matrices, and Grad-CAM. | PyTorch, interpretability, CNNs |
 | [Real-Time Face Recognition and Embedding Matching](https://github.com/aacaas5/real-time-face-recognition-embedding-matching) | Local enrollment, embedding-based matching, threshold rejection, evaluation infrastructure, and runtime benchmarking. | Face embeddings, OpenCV, evaluation |
 | [Advanced Light Intensity Indicator](https://github.com/aacaas5/The-Advanced-Light-Intensity-Indicator-ALII-Module) | Hardware-only light monitoring with an LDR, noise filtering, stability control, timing logic, and dual seven-segment displays. | Digital electronics, instrumentation |
@@ -113,13 +154,73 @@ Each title links directly to its repository.
 
 ## Technical Toolkit
 
-| Area | Tools and technologies |
-|---|---|
-| **AI & Computer Vision** | Python, PyTorch, scikit-learn, OpenCV, Qwen2.5-VL, DINOv2, YOLO, SHAP |
-| **Robotics & Autonomy** | ROS 2, ArduPilot, MAVROS, Gazebo, sensor integration, state machines |
-| **Embedded & Electrical** | Arduino, LabVIEW, MATLAB/Simulink, electronics, instrumentation, control systems, DAQ |
-| **Applications & Visualization** | Streamlit, Flask, React, TypeScript, JavaScript, Three.js |
-| **Engineering Workflow** | Git, GitHub, Jupyter, VS Code, reproducible experiments, quantitative evaluation |
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,js,ts&theme=dark" alt="Python, C++, MATLAB, JavaScript, and TypeScript" />
+</p>
+
+### AI, Machine Learning & Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, and scikit-learn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Qwen2.5--VL-615CED?style=for-the-badge" alt="Qwen2.5-VL" />
+  <img src="https://img.shields.io/badge/DINOv2-0467DF?style=for-the-badge" alt="DINOv2" />
+</p>
+
+### Web Applications & Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,flask&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Three.js, and Flask" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### Robotics, Autonomous Systems & Embedded Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,arduino&theme=dark" alt="ROS and Arduino" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArduPilot-0D7FBD?style=for-the-badge&logo=ardupilot&logoColor=white" alt="ArduPilot" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/MAVROS-334155?style=for-the-badge" alt="MAVROS" />
+  <img src="https://img.shields.io/badge/Sensors-0891B2?style=for-the-badge" alt="Sensors" />
+  <img src="https://img.shields.io/badge/Data_Acquisition-0F766E?style=for-the-badge" alt="Data Acquisition" />
+</p>
+
+### Power Systems, CAD & Engineering Simulation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=autocad,matlab&theme=dark" alt="AutoCAD and MATLAB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PSCAD-005DAA?style=for-the-badge" alt="PSCAD" />
+  <img src="https://img.shields.io/badge/PSS%C2%AE%20E-1F4E79?style=for-the-badge" alt="PSS/E" />
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Simulink-F59E0B?style=for-the-badge" alt="Simulink" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
+</p>
 
 ---
 
