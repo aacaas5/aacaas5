@@ -1,238 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:F72585&height=150&section=header&animation=fadeIn" width="100%" alt="Colorful profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:F72585&height=150&section=header&animation=fadeIn" width="100%" alt="Profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=960&lines=AACAAS;Electrical+Engineering+Undergraduate;AI+%7C+Computer+Vision+%7C+Robotics" alt="AACAAS — Electrical Engineering, AI, Computer Vision, and Robotics" />
-
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=960&lines=AACAAS;Electrical+Engineering+Undergraduate;Reliable+AI+%7C+Computer+Vision+%7C+Robotics" alt="AACAAS - Electrical Engineering, Reliable AI, Computer Vision, and Robotics" />
 
 <p>
-  <img src="https://img.shields.io/badge/Electrical_Engineering-University_of_Moratuwa-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Electrical Engineering at the University of Moratuwa" />
+  <img src="https://img.shields.io/badge/Electrical_Engineering-University_of_Moratuwa-7C3AED?style=flat-square" alt="Electrical Engineering at the University of Moratuwa" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Sri_Lanka-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Sri Lanka" />
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/aacaas-muhamathu-023765430/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/aacaas-muhamathu-023765430/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:aacaas05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email AACAAS" />
-  </a>
+  <a href="mailto:aacaas05@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
   &nbsp;
-  <a href="https://github.com/aacaas5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
+  <a href="https://github.com/aacaas5?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
 </div>
 
----
+## Hello, I am AACAAS
 
-I am an electrical engineering undergraduate interested in building and studying intelligent systems across both hardware and software. My work spans computer vision, reliable machine learning, multimodal visual reasoning, robotics, autonomous systems, sensing, embedded systems, and control.
+I am an Electrical Engineering undergraduate at the University of Moratuwa building intelligent systems across **AI, computer vision, robotics, sensing, embedded systems, and control**.
 
-I am particularly interested in understanding how intelligent systems behave under uncertainty, distribution shift, missing information, and real-world operating constraints.
+My main research interest is **reliable intelligence**: understanding how models and autonomous systems behave when evidence is missing, inputs shift, sensors are corrupted, or real-world assumptions fail. I turn those questions into reproducible experiments and end-to-end engineering systems.
 
----
-
-## About Me
-
-My electrical engineering background provides foundations in circuits, electronics, signals, sensors, control, and embedded systems. My current work extends these foundations into machine perception, learning-based systems, uncertainty quantification, robustness, autonomous systems, and intelligent decision-making.
-
-This connection is intentional: robust perception and reliable AI require understanding both physical constraints and statistical limitations. Whether designing sensor-based data-acquisition systems or developing vision-language models that remain calibrated under evidence loss, the core challenge is building systems that behave predictably when assumptions fail.
+> **Current focus:** reliable visual reasoning, uncertainty and calibration, out-of-distribution detection, autonomous perception, and sensor-to-action systems.
 
 ---
 
-## Research & Engineering Interests
+## Featured Work
 
-### Artificial Intelligence & Perception
-- Computer Vision
-- Reliable & Robust Machine Learning
-- Vision-Language Models / Multimodal AI
-- Visual Anomaly Detection
-- Confidence Calibration & Selective Prediction
-- Out-of-Distribution Recognition
+### 1. Evidence-Order Calibration for Selective Visual Reasoning
 
-### Robotics & Autonomous Systems
-- Autonomous Robotics & Drones
-- Robot Perception & Control
-- ROS 2 · ArduPilot · Gazebo
-- Sensor Integration & Data Acquisition
-- Autonomous Navigation & Mission Systems
+[![Repository](https://img.shields.io/badge/View_Repository-evidence--order--calibration--vlm-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/evidence-order-calibration-vlm)
 
-### Electrical & Electronic Engineering
-- Embedded Systems & Microcontrollers
-- Sensors & Instrumentation
-- Control Systems & Feedback
-- Electronics & Signal Processing
-- Data Acquisition & IoT
+A paper-backed study of whether a Vision-Language Model's confidence tracks the progressive loss of question-critical visual evidence. I trained lightweight reliability heads over a frozen Qwen2.5-VL model and introduced evidence-order supervision to improve the structure of confidence trajectories.
+
+- Reduced Evidence Monotonicity Violation Rate from **0.330 to 0.303** over critical-mask trajectories.
+- Transferred the ordering improvement to a held-out local-blur degradation: **-0.0468 EMVR difference**, 95% CI `[-0.0739, -0.0199]`.
+- Includes the manuscript, frozen benchmark artifacts, staged experiments, ablations, controls, and reproducibility scripts.
+
+`Qwen2.5-VL` `PyTorch` `GQA` `Calibration` `Uncertainty` `Selective Prediction`
 
 ---
 
-## Selected Research Projects
+### 2. ShiftSplit-AD: Separating Domain Shift from Defects
 
-### Evidence-Order Calibration for Selective Visual Reasoning
+[![Repository](https://img.shields.io/badge/View_Repository-ShiftSplit--AD-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/ShiftSplit-AD)
 
-**Repository:** [evidence-order-calibration-vlm](https://github.com/aacaas5/evidence-order-calibration-vlm)
+A robustness study that asks whether benign domain shift can be separated from genuine industrial defects in frozen DINOv2 feature residuals. The method applies low-rank and row-sparse decomposition, then evaluates both its gains and its failure modes.
 
-Studies whether Vision-Language Model (Qwen2.5-VL) confidence tracks progressive loss of question-critical visual evidence. Uses post-hoc reliability heads trained on frozen model features with evidence-order supervision. Primary finding: Evidence-order calibration reduces violation rate (EMVR) from 0.330 to 0.303, with robust transfer to held-out blur degradation (−0.0468, 95% CI [−0.0739, −0.0199]). This represents structural-order improvement in reliability tracking, not generic confidence superiority.
+- Improved AeBAD-S real-shift AUROC from **0.6780 to 0.7294**.
+- Tested transfer on MVTec and documented an important limitation: filtering nuisance variation can also suppress genuine defect evidence.
+- Emphasizes controlled evaluation, bootstrap uncertainty, negative findings, and reproducible analysis.
 
-**Technologies:** PyTorch · Qwen2.5-VL · GQA · Calibration · Uncertainty
-
----
-
-### ShiftSplit-AD: Separating Domain Shift from Defects
-
-**Repository:** [ShiftSplit-AD](https://github.com/aacaas5/ShiftSplit-AD)
-
-Investigates a practical robustness problem: distinguishing real anomalies from benign domain shift using frozen DINOv2-small patch embeddings. Applies low-rank / row-sparse residual matrix decomposition to suppress nuisance feature variation. Main result: On AeBAD-S real-shift benchmark, achieves AUROC improvement of +0.0514 (0.6780 → 0.7294) with stable bootstrap intervals. However, held-out MVTec evaluation shows significant degradation, revealing the critical tradeoff: sparse filtering can suppress both domain-shift noise and genuine defect information simultaneously.
-
-**Key Finding:** The central insight is not that the method always works, but rather that this tradeoff is fundamental and depends on whether defect and shift structure are sufficiently different.
-
-**Technologies:** DINOv2 · PyTorch · Anomaly Detection · Robustness · Domain Adaptation
+`DINOv2` `PyTorch` `Anomaly Detection` `Domain Shift` `Robustness`
 
 ---
 
-### Reliable Machine-Failure Prediction Under Imbalanced and Corrupted Sensor Data
+### 3. Autonomous Bathymetric Survey Drone
 
-**Repository:** [reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data](https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data)
+[![Repository](https://img.shields.io/badge/View_Repository-ROS_2_Bathymetric_Drone-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot)
 
-Examines predictive maintenance as a reliability problem, not only a classification problem. Evaluates the same Random Forest model under clean data, 30% sensor noise, 30% missing measurements, and 20% training data scenarios. Clean-test recall of 82.35% deteriorates to 66.67% under noise and 50.98% under missing measurements. Includes SHAP explainability analysis to understand why some failures are detected confidently while others are missed. Demonstrates that high clean-data accuracy does not guarantee robustness to imperfect sensor and training conditions.
+A full-stack autonomous survey system that combines ROS 2, ArduPilot SITL, Gazebo, computer vision, sonar sensing, and a React ground-control station. The drone follows a survey grid, distinguishes water from soil, measures depth, estimates volume, and produces interactive 3D bathymetry.
 
-**Technologies:** Random Forest · SHAP · Imbalanced Data · Sensor Systems · Robustness
+- Autonomous state-machine mission from waypoint planning through return-to-launch.
+- Real-time telemetry and mission control through ROS-WebSocket integration.
+- Interactive Three.js visualization of surveyed underwater terrain.
 
----
-
-### Real-Time Object Detection Robustness Analysis
-
-**Repository:** [real-time-object-detection-robustness-analysis](https://github.com/aacaas5/real-time-object-detection-robustness-analysis)
-
-Evaluates YOLO26n detector behavior under controlled perturbations: confidence thresholding, brightness reduction, blur, scale, and occlusion. Finds non-monotonic detection patterns—for example, blur kernel progression shows confidence peak at kernel 11, not monotonic degradation. Demonstrates why confidence thresholds and detection counts are insufficient metrics for robustness assessment. Includes Streamlit dashboard for live webcam detection monitoring and reproducible experiment infrastructure.
-
-**Technologies:** YOLO · OpenCV · Streamlit · Robustness Analysis · Computer Vision
+`ROS 2` `ArduPilot` `Gazebo` `MAVROS` `OpenCV` `React` `Three.js`
 
 ---
 
-## Selected Engineering & Autonomous Systems
+### 4. Autonomous Smart Robot for Weed Detection and Treatment
 
-### ROS 2 Autonomous Bathymetric Survey System with ArduPilot
+[![Repository](https://img.shields.io/badge/View_Repository-Smart_Garden_Robot-181717?style=for-the-badge&logo=github)](https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots)
 
-**Repository:** [ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot](https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot)
+An integrated AI, robotics, and embedded platform that moves between potted plants, detects weeds, evaluates plant condition, and reports scan results. It connects camera-based inference with motor control, servo positioning, IR sensing, LabVIEW data acquisition, and web telemetry.
 
-Full-stack autonomous drone system for underwater terrain mapping. Combines ROS 2 middleware, ArduPilot SITL, Gazebo simulation, and React-based ground control station. Drone autonomously navigates survey grid, classifies water vs. soil via gimbal camera (HSV thresholding), descends sonar to measure lakebed depth, and generates 3D bathymetry visualization. Demonstrates system integration across control (ArduPilot), perception (computer vision), robotics (ROS 2), and user interface (React + Three.js).
+- End-to-end perception-to-action workflow across Python and Arduino.
+- Multi-sensor acquisition and monitoring through LabVIEW.
+- Serial, TCP/IP, and HTTP communication across the system.
 
-**Key Challenge:** Coordinating state machine logic, sensor timing, gimbal control, sonar depth processing, and real-time telemetry across heterogeneous middleware while maintaining mission-critical reliability.
-
-**Technologies:** ROS 2 · ArduPilot · Gazebo · React · OpenCV · Python · C++
-
----
-
-### Autonomous Smart Robot for Weed Detection and Treatment in Pots
-
-**Repository:** [Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots](https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots)
-
-Integrated AI/robotics/embedded platform combining Python orchestration, Arduino firmware, LabVIEW data acquisition, and computer vision. Four-wheel mobile robot autonomously moves between potted plants, uses IR tape sensor for arrival detection, positions camera via servo gimbal, detects weeds using Inference SDK model, analyzes plant health via HSV color masks, and uploads scan results. End-to-end system demonstrates perception-to-action pipeline, sensor integration, embedded control, DAQ monitoring, and multi-technology communication (TCP/IP, serial, HTTP).
-
-**Technical Scope:** Motor control · Servo gimbal · IR sensing · Camera capture · Vision inference · Condition analysis · LabVIEW DAQ · Web integration
-
-**Technologies:** Python · Arduino · LabVIEW · OpenCV · Computer Vision · Embedded Systems · DAQ
+`Python` `Arduino` `LabVIEW` `OpenCV` `Computer Vision` `DAQ`
 
 ---
 
-## How I Approach Problems
+## More Projects
 
-**Problem** → **Hypothesis** → **Experimental Design** → **Implementation** → **Quantitative Evaluation** → **Failure Analysis** → **Reproducibility**
+Each title links directly to its repository.
 
-I increasingly structure projects as small experimental studies rather than only implementation demos. This means asking clear research questions, controlling variables, reporting negative or mixed findings honestly, and ensuring reproducibility through documented methods and artifact preservation.
+| Project | What it demonstrates | Focus |
+|---|---|---|
+| [Dual-Signal OOD Gating for Skin-Cancer Classification](https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection) | Research prototype combining a ResNet50 classifier with ViT-distance and Energy + ReAct gates to reject unsupported inputs; includes a Flask interface and API. | Open-set recognition, medical imaging, Flask |
+| [Reliable Machine-Failure Prediction](https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data) | Evaluates predictive-maintenance reliability under imbalance, sensor noise, missing measurements, and limited training data, with SHAP explanations. | Sensor ML, reliability, explainability |
+| [Real-Time Object-Detection Robustness Analysis](https://github.com/aacaas5/real-time-object-detection-robustness-analysis) | Measures YOLO behavior under brightness, blur, scale, occlusion, and confidence-threshold changes, with a live Streamlit dashboard. | YOLO, OpenCV, Streamlit |
+| [Visual Representation Analysis with CNNs](https://github.com/aacaas5/visual-representation-analysis-cnn) | Explores CIFAR-10 representations using feature maps, PCA, confidence analysis, confusion matrices, and Grad-CAM. | PyTorch, interpretability, CNNs |
+| [Real-Time Face Recognition and Embedding Matching](https://github.com/aacaas5/real-time-face-recognition-embedding-matching) | Local enrollment, embedding-based matching, threshold rejection, evaluation infrastructure, and runtime benchmarking. | Face embeddings, OpenCV, evaluation |
+| [Advanced Light Intensity Indicator](https://github.com/aacaas5/The-Advanced-Light-Intensity-Indicator-ALII-Module) | Hardware-only light monitoring with an LDR, noise filtering, stability control, timing logic, and dual seven-segment displays. | Digital electronics, instrumentation |
+| [Dual-Axis Solar Tracking System](https://github.com/aacaas5/dual-axis-solar-tracking-system) | Mechanical design, electronics, embedded control, and MATLAB/Simulink simulation for automatic PV panel orientation. | Control, CAD, renewable energy |
+| [Handwritten Digit Recognition](https://github.com/aacaas5/handwritten-digit-recognition) | A fully connected PyTorch neural network trained and evaluated on MNIST. | Deep-learning fundamentals |
+| [Gradient Descent Optimization Lab](https://github.com/aacaas5/gradient-descent-optimization-lab) | A focused exploration of gradient-based optimization. | Optimization, machine learning |
+| [Smart Garden Monitor](https://github.com/aacaas5/smart_garden_monitor) | A TypeScript-based interface for smart-garden monitoring. | TypeScript, web telemetry |
 
----
-
-## Tech Stack
-
-### 🔗 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,js&theme=dark" alt="Python, C++, MATLAB, and JavaScript" />
-</p>
-
-### 🧠 AI, Machine Learning & Computer Vision
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, and scikit-learn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Qwen2.5--VL-615CED?style=for-the-badge" alt="Qwen2.5-VL" />
-  <img src="https://img.shields.io/badge/DINOv2-0467DF?style=for-the-badge" alt="DINOv2" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs&theme=dark" alt="HTML, CSS, JavaScript, React, and Three.js" />
-</p>
-
-### 🤖 Robotics, Autonomous Systems & Embedded
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,arduino&theme=dark" alt="ROS and Arduino" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ArduPilot-0D7FBD?style=for-the-badge&logo=ardupilot&logoColor=white" alt="ArduPilot" />
-  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/MAVROS-334155?style=for-the-badge" alt="MAVROS" />
-  <img src="https://img.shields.io/badge/Sensors-0891B2?style=for-the-badge" alt="Sensors" />
-  <img src="https://img.shields.io/badge/Data_Acquisition-0F766E?style=for-the-badge" alt="Data Acquisition" />
-</p>
-
-### ⚡ Power Systems, CAD & Engineering Simulation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,matlab&theme=dark" alt="AutoCAD and MATLAB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PSCAD-005DAA?style=for-the-badge" alt="PSCAD" />
-  <img src="https://img.shields.io/badge/PSS%C2%AEE-1F4E79?style=for-the-badge" alt="PSS®E" />
-  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/Simulink-F59E0B?style=for-the-badge" alt="Simulink" />
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" />
-</p>
-
-### 🛠️ Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
-</p>
+<div align="center">
+  <a href="https://github.com/aacaas5?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_14_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
+</div>
 
 ---
 
-## Current Focus
+## Technical Toolkit
 
-Exploring reliability in visual intelligence—particularly how models behave under missing evidence, domain shift, out-of-distribution inputs, and uncertainty. Continuing to build autonomous perception and engineering systems that integrate sensors, embedded control, and learning-based reasoning into coherent end-to-end platforms.
-
----
-
-## Connect
-
-**GitHub:** [github.com/aacaas5](https://github.com/aacaas5)
-
-**LinkedIn:** [linkedin.com/in/aacaas-muhamathu-023765430](https://www.linkedin.com/in/aacaas-muhamathu-023765430/)
-
-**Email:** [aacaas05@gmail.com](mailto:aacaas05@gmail.com)
+| Area | Tools and technologies |
+|---|---|
+| **AI & Computer Vision** | Python, PyTorch, scikit-learn, OpenCV, Qwen2.5-VL, DINOv2, YOLO, SHAP |
+| **Robotics & Autonomy** | ROS 2, ArduPilot, MAVROS, Gazebo, sensor integration, state machines |
+| **Embedded & Electrical** | Arduino, LabVIEW, MATLAB/Simulink, electronics, instrumentation, control systems, DAQ |
+| **Applications & Visualization** | Streamlit, Flask, React, TypeScript, JavaScript, Three.js |
+| **Engineering Workflow** | Git, GitHub, Jupyter, VS Code, reproducible experiments, quantitative evaluation |
 
 ---
 
-*Last updated: August 30, 2026*
+## How I Work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7C3AED,100:00C6FF&height=120&section=footer" width="100%" alt="Colorful profile footer" />
+`Problem` -> `Hypothesis` -> `Experimental Design` -> `Implementation` -> `Quantitative Evaluation` -> `Failure Analysis` -> `Reproducibility`
+
+I approach projects as engineering systems and small experimental studies: define the question, control the variables, measure the outcome, document limitations honestly, and preserve enough detail for the work to be reproduced.
+
+---
+
+## Let us Connect
+
+- **GitHub:** [github.com/aacaas5](https://github.com/aacaas5)
+- **LinkedIn:** [linkedin.com/in/aacaas-muhamathu-023765430](https://www.linkedin.com/in/aacaas-muhamathu-023765430/)
+- **Email:** [aacaas05@gmail.com](mailto:aacaas05@gmail.com)
+
+<div align="center">
+
+*Open to research collaboration, engineering projects, and conversations about reliable AI, computer vision, and autonomous systems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7C3AED,100:00C6FF&height=120&section=footer" width="100%" alt="Profile footer" />
+
+</div>
