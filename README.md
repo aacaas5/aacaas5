@@ -59,11 +59,13 @@ currently_exploring:
 engineering_mindset: "Model. Design. Build. Measure. Validate. Improve."
 ```
 
-I am an **Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka**, interested in combining **core electrical engineering with modern machine learning and intelligent autonomous systems**.
+I am an **Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests in both **electrical engineering and artificial intelligence**.
 
-My foundation is in **electrical engineering, control, mathematical modelling, sensing and instrumentation**, while my growing work in **machine learning and artificial intelligence** allows me to build systems that can learn, perceive, reason and make decisions.
+My work brings together **control systems, mathematical modelling, embedded systems, sensing and instrumentation** with **machine learning, computer vision, reliable AI and intelligent autonomous systems**.
 
-I enjoy connecting **physical engineering systems with intelligent computation** — from sensors, motors and embedded controllers to computer vision, machine learning models and autonomous robots.
+I am especially interested in building systems that combine **physical engineering and intelligent computation** — from circuits, sensors, motors and embedded controllers to machine learning models, visual perception and autonomous robots.
+
+My goal is to work at the intersection of **electrical engineering, AI and robotics**, developing systems that are not only intelligent, but also physically grounded, reliable and useful in real-world environments.
 
 My main areas of interest are:
 
