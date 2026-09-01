@@ -900,38 +900,6 @@ Engineering and research should be repeatable.
 </table>
 
 ---
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=aacaas5&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aacaas5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=aacaas5&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aacaas5&theme=tokyo-night&hide_border=true&radius=12"
-  width="95%"
-/>
-
-</div>
-
----
-
 # 🤝 Let's Build Something Interesting
 
 <div align="center">
