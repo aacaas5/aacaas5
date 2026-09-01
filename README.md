@@ -39,7 +39,7 @@ I am an **Electrical Engineering undergraduate at the University of Moratuwa, Sr
 
 My work combines **control, mathematical modelling, embedded systems, sensing and instrumentation** with **machine learning, computer vision, reliable AI and robotics**, allowing me to explore systems from both their **physical engineering** and **intelligent computational** sides.
 
-I am especially interested in developing systems where **electrical hardware, sensors, embedded controllers, machine learning models and autonomous perception work together reliably in real-world environments**.
+I am especially interested in systems where **electrical hardware, sensors, embedded controllers, machine learning models and autonomous perception work together reliably in real-world environments**.
 
 <div align="center">
 
@@ -87,7 +87,11 @@ A research study investigating whether a Vision-Language Model's confidence corr
 <br/>
 
 <a href="https://github.com/aacaas5/evidence-order-calibration-vlm">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/evidence-order-calibration-vlm/blob/main/paper/main.pdf">
+<img src="https://img.shields.io/badge/Paper-Read_PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -118,7 +122,11 @@ Investigating whether benign distribution shift can be separated from genuine in
 <br/>
 
 <a href="https://github.com/aacaas5/ShiftSplit-AD">
-<img src="https://img.shields.io/badge/View_Project-F72585?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/ShiftSplit-AD/blob/main/paper/main.pdf">
+<img src="https://img.shields.io/badge/Paper-Read_PDF-F72585?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -133,15 +141,15 @@ Investigating whether benign distribution shift can be separated from genuine in
 
 <td width="50%" valign="top">
 
-### 🩺 Dual-Signal OOD Gating
+### 🩺 Dual-Signal OOD Gating for Skin Cancer Detection
 
-**Open-Set Recognition • Reliable AI**
+**Skin Cancer Detection • Open-Set Recognition • Reliable AI**
 
-A classification pipeline combining standard prediction with complementary out-of-distribution rejection mechanisms.
+A skin-cancer detection pipeline combining classification with complementary out-of-distribution rejection mechanisms to identify unsupported inputs before making a prediction.
 
 ### Highlights
 
-- ResNet50 classification
+- ResNet50 skin-lesion classifier
 - ViT embedding-distance signal
 - Energy + ReAct scoring
 - Open-set rejection
@@ -152,12 +160,16 @@ A classification pipeline combining standard prediction with complementary out-o
 <br/>
 
 <a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection">
-<img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection/blob/main/VLM%20%E2%80%93%20Gated%20Open%20Set%20Control%20for%20CNN.pdf">
+<img src="https://img.shields.io/badge/Report-Read_PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`ResNet50` `ViT` `Energy + ReAct` `OOD Detection`
+`Skin Cancer Detection` `ResNet50` `ViT` `OOD Detection` `Open-Set Recognition`
 
 </td>
 
@@ -167,7 +179,7 @@ A classification pipeline combining standard prediction with complementary out-o
 
 **Machine Learning • Predictive Maintenance**
 
-A reliability-focused machine-learning study examining failure prediction under realistic sensor degradation.
+A reliability-focused machine-learning study examining equipment-failure prediction under realistic sensor degradation.
 
 ### Highlights
 
@@ -189,7 +201,11 @@ A reliability-focused machine-learning study examining failure prediction under 
 <br/>
 
 <a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data">
-<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data/blob/main/publication/paper/main.pdf">
+<img src="https://img.shields.io/badge/Paper-Read_PDF-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -224,7 +240,7 @@ A real-time object-detection system and controlled investigation of how detector
 <br/>
 
 <a href="https://github.com/aacaas5/real-time-object-detection-robustness-analysis">
-<img src="https://img.shields.io/badge/View_Project-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -253,7 +269,7 @@ An exploration of how convolutional neural networks learn and organize visual in
 <br/>
 
 <a href="https://github.com/aacaas5/visual-representation-analysis-cnn">
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -265,7 +281,7 @@ An exploration of how convolutional neural networks learn and organize visual in
 </tr>
 </table>
 
-> ⚕️ The skin-lesion project is a research prototype and is **not a validated medical device**.
+> ⚕️ The skin-cancer project is a research prototype and is **not a validated medical device**.
 
 ---
 
@@ -297,7 +313,11 @@ A complete autonomous reservoir-survey platform integrating mission planning, ro
 <br/>
 
 <a href="https://github.com/aacaas5/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot">
-<img src="https://img.shields.io/badge/View_Project-00AEEF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot/blob/main/Drone-Based%20Reservoir%20Surveying.pdf">
+<img src="https://img.shields.io/badge/Report-Read_PDF-00AEEF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -308,11 +328,11 @@ A complete autonomous reservoir-survey platform integrating mission planning, ro
 
 <td width="50%" valign="top">
 
-### 🌱 Autonomous Smart Garden Robot
+### 🌱 Autonomous Smart Robot for Weed Detection & Treatment
 
 **AI • Embedded Systems • Robotics • Instrumentation**
 
-A physical robotic platform connecting perception, sensing, embedded control, data acquisition and actuation.
+A physical robotic platform connecting perception, sensing, embedded control, data acquisition and actuation for automated plant monitoring and weed treatment.
 
 ### Highlights
 
@@ -329,7 +349,11 @@ A physical robotic platform connecting perception, sensing, embedded control, da
 <br/>
 
 <a href="https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots">
-<img src="https://img.shields.io/badge/View_Project-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots/blob/main/Autonomous%20Smart%20Robot%20for%20Weed%20Detection%20and%20Treatment%20in%20Pot.pdf">
+<img src="https://img.shields.io/badge/Report-Read_PDF-00A86B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -369,7 +393,11 @@ A photovoltaic tracking system combining electrical, mechanical and control-syst
 <br/>
 
 <a href="https://github.com/aacaas5/dual-axis-solar-tracking-system">
-<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aacaas5/dual-axis-solar-tracking-system/blob/main/Group_14_Latex_Document.pdf">
+<img src="https://img.shields.io/badge/Report-Read_PDF-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -400,7 +428,7 @@ A hardware-oriented sensing and signal-processing system for stable real-time li
 <br/>
 
 <a href="https://github.com/aacaas5/The-Advanced-Light-Intensity-Indicator-ALII-Module">
-<img src="https://img.shields.io/badge/View_Project-FFC107?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -425,13 +453,15 @@ A hardware-oriented sensing and signal-processing system for stable real-time li
 
 Local enrollment and embedding-based face recognition with unknown-person rejection.
 
-**Features**
+### Features
 
 - HOG face detection
 - 128-dimensional embeddings
 - Euclidean matching
 - Threshold rejection
 - Runtime benchmarking
+
+<br/>
 
 <a href="https://github.com/aacaas5/real-time-face-recognition-embedding-matching">
 <img src="https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white"/>
@@ -449,12 +479,14 @@ Local enrollment and embedding-based face recognition with unknown-person reject
 
 A fully connected PyTorch neural network trained and evaluated on MNIST.
 
-**Focus**
+### Focus
 
 - Neural-network fundamentals
 - Classification
 - Training and evaluation
 - PyTorch implementation
+
+<br/>
 
 <a href="https://github.com/aacaas5/handwritten-digit-recognition">
 <img src="https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white"/>
@@ -476,12 +508,14 @@ A fully connected PyTorch neural network trained and evaluated on MNIST.
 
 A focused exploration of gradient-based optimization and machine-learning fundamentals.
 
-**Focus**
+### Focus
 
 - Optimization
 - Mathematical reasoning
 - Gradient descent
 - Learning dynamics
+
+<br/>
 
 <a href="https://github.com/aacaas5/gradient-descent-optimization-lab">
 <img src="https://img.shields.io/badge/View_Project-9333EA?style=flat-square&logo=github&logoColor=white"/>
@@ -499,12 +533,14 @@ A focused exploration of gradient-based optimization and machine-learning fundam
 
 A TypeScript-based interface for engineering monitoring and smart-garden telemetry.
 
-**Focus**
+### Focus
 
 - Web telemetry
 - Engineering monitoring
 - TypeScript
 - Interface development
+
+<br/>
 
 <a href="https://github.com/aacaas5/smart_garden_monitor">
 <img src="https://img.shields.io/badge/View_Project-00A86B?style=flat-square&logo=github&logoColor=white"/>
@@ -759,6 +795,8 @@ A TypeScript-based interface for engineering monitoring and smart-garden telemet
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 
