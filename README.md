@@ -1,12 +1,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:7C3AED,50:F72585,75:FF8C42,100:00E5A8&height=210&section=header&text=AACAAS&fontSize=65&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Electrical%20Engineering%20%7C%20Machine%20Learning%20%7C%20Embedded%20Systems%20%7C%20AI%20%7C%20Robotics&descSize=16&descAlignY=57"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:7C3AED,50:F72585,75:FF8C42,100:00E5A8&height=210&section=header&text=AACAAS&fontSize=65&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Electrical%20Engineering%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Robotics&descSize=16&descAlignY=57"
   width="100%"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Electrical+Engineering+%2B+Intelligent+Systems+%E2%9A%A1;Machine+Learning+%E2%80%A2+Control+%E2%80%A2+Embedded+Systems;Computer+Vision+%E2%80%A2+Reliable+AI+%E2%80%A2+Robotics;From+Electrical+Systems+to+Intelligent+Machines+%F0%9F%A4%96"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Electrical+Engineering+%2B+Artificial+Intelligence+%E2%9A%A1;Machine+Learning+%E2%80%A2+Embedded+Systems+%E2%80%A2+Control;Computer+Vision+%E2%80%A2+Reliable+AI+%E2%80%A2+Robotics;From+Physical+Systems+to+Intelligent+Machines+%F0%9F%A4%96"
   alt="Typing SVG"
 />
 
@@ -35,55 +35,499 @@
 
 # 👨‍💻 About Me
 
-```yaml
-name: AACAAS
-education: Electrical Engineering — University of Moratuwa
-location: Sri Lanka 🇱🇰
+I am an **Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests across both **electrical engineering and artificial intelligence**.
 
-core_areas:
-  - Electrical & Control Engineering
-  - Machine Learning & Artificial Intelligence
-  - Embedded Systems & Instrumentation
-  - Computer Vision & Multimodal AI
-  - Robotics & Autonomous Systems
-  - Reliable AI & Intelligent Systems
+My work combines **control, mathematical modelling, embedded systems, sensing and instrumentation** with **machine learning, computer vision, reliable AI and robotics**, allowing me to explore systems from both their **physical engineering** and **intelligent computational** sides.
 
-currently_exploring:
-  - Electrical System Modelling & Control
-  - Machine Learning for Engineering Systems
-  - Embedded Intelligence & Sensor Systems
-  - Computer Vision & Vision-Language Models
-  - Reliable AI & Model Uncertainty
-  - Autonomous Perception & Robotics
+I am especially interested in developing systems where **electrical hardware, sensors, embedded controllers, machine learning models and autonomous perception work together reliably in real-world environments**.
 
-engineering_mindset: "Model. Design. Build. Measure. Validate. Improve."
-```
+<div align="center">
 
-I am an **Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests in both **electrical engineering and artificial intelligence**.
+<img src="https://img.shields.io/badge/Electrical_Engineering-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliable_AI-F72585?style=for-the-badge"/>
 
-My work brings together **control systems, mathematical modelling, embedded systems, sensing and instrumentation** with **machine learning, computer vision, reliable AI and intelligent autonomous systems**.
-
-I am especially interested in building systems that combine **physical engineering and intelligent computation** — from circuits, sensors, motors and embedded controllers to machine learning models, visual perception and autonomous robots.
-
-My goal is to work at the intersection of **electrical engineering, AI and robotics**, developing systems that are not only intelligent, but also physically grounded, reliable and useful in real-world environments.
-
-My main areas of interest are:
-
-⚡ **Electrical & Control Engineering** — electrical systems, mathematical modelling, control systems, motor dynamics, renewable energy and engineering simulation  
-
-🧠 **Machine Learning & Artificial Intelligence** — supervised learning, neural networks, predictive modelling, anomaly detection, optimization and intelligent decision-making  
-
-🔌 **Embedded Systems & Instrumentation** — Arduino, ESP32, sensors, actuators, motor control, data acquisition, LabVIEW and hardware-software integration  
-
-👁️ **Computer Vision & Multimodal AI** — object detection, visual representations, image analysis, Vision-Language Models and visual reasoning  
-
-🤖 **Robotics & Autonomous Systems** — ROS 2, autonomous navigation, sensing, mission planning, robotic perception and sensor-to-action systems  
-
-🛡️ **Reliable AI** — uncertainty, calibration, out-of-distribution detection, domain shift, robustness and failure analysis  
+</div>
 
 > ### 🎯 Current Focus
 >
-> Building intelligent engineering systems where **electrical hardware, sensing, control, embedded computing, machine learning and autonomous perception work together reliably in real-world environments**.
+> **Electrical Engineering + Machine Learning + Embedded Intelligence + Reliable Autonomous Systems**
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI • Machine Learning • Computer Vision
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Evidence-Order Calibration for VLMs
+
+**Vision-Language Models • Reliable AI • Calibration**
+
+A research study investigating whether a Vision-Language Model's confidence correctly tracks the progressive loss of question-critical visual evidence.
+
+### Highlights
+
+- Five-level evidence-loss trajectories
+- Lightweight ordinal reliability head
+- Frozen Qwen2.5-VL backbone
+- Masking EMVR: `0.330 → 0.303`
+- Held-out blur transfer evaluation
+- Calibration and uncertainty analysis
+- Controlled experiments and ablations
+- Paper-backed reproducible research
+
+<br/>
+
+<a href="https://github.com/aacaas5/evidence-order-calibration-vlm">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Qwen2.5-VL` `PyTorch` `GQA` `Calibration` `Uncertainty`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 ShiftSplit-AD
+
+**DINOv2 • Domain Shift • Anomaly Detection**
+
+Investigating whether benign distribution shift can be separated from genuine industrial defects using frozen DINOv2 feature representations.
+
+### Highlights
+
+- Frozen DINOv2 representations
+- Residual decomposition
+- Low-rank + row-sparse modelling
+- AeBAD-S AUROC: `0.6780 → 0.7294`
+- Held-out-domain evaluation
+- Bootstrap uncertainty analysis
+- Failure-mode investigation
+- Robustness-focused research
+
+<br/>
+
+<a href="https://github.com/aacaas5/ShiftSplit-AD">
+<img src="https://img.shields.io/badge/View_Project-F72585?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`DINOv2` `PyTorch` `Anomaly Detection` `Domain Shift`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🩺 Dual-Signal OOD Gating
+
+**Open-Set Recognition • Reliable AI**
+
+A classification pipeline combining standard prediction with complementary out-of-distribution rejection mechanisms.
+
+### Highlights
+
+- ResNet50 classification
+- ViT embedding-distance signal
+- Energy + ReAct scoring
+- Open-set rejection
+- Unsupported-input detection
+- Confidence and threshold analysis
+- Reliability-focused evaluation
+
+<br/>
+
+<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection">
+<img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`ResNet50` `ViT` `Energy + ReAct` `OOD Detection`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Reliable Machine-Failure Prediction
+
+**Machine Learning • Predictive Maintenance**
+
+A reliability-focused machine-learning study examining failure prediction under realistic sensor degradation.
+
+### Highlights
+
+- Random Forest classification
+- Predictive maintenance
+- Sensor-noise experiments
+- Missing-measurement experiments
+- Class imbalance analysis
+- Limited-data evaluation
+- SHAP explainability
+- Failure analysis
+
+### Performance
+
+- Accuracy: `97.27%`
+- Recall: `82.35%`
+- Average Precision: `78.03%`
+
+<br/>
+
+<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data">
+<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Random Forest` `SHAP` `Sensor Data` `Robustness`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 Real-Time Object Detection Robustness
+
+**YOLO • Computer Vision • Real-Time AI**
+
+A real-time object-detection system and controlled investigation of how detector behaviour changes under visual degradation.
+
+### Evaluated
+
+- Low-light conditions
+- Blur
+- Scale variation
+- Occlusion
+- Confidence thresholds
+- Detection count
+- FPS
+- Latency
+
+<br/>
+
+<a href="https://github.com/aacaas5/real-time-object-detection-robustness-analysis">
+<img src="https://img.shields.io/badge/View_Project-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`YOLO` `OpenCV` `Streamlit` `Robustness`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 Visual Representation Analysis with CNNs
+
+**Deep Learning • Interpretability • Computer Vision**
+
+An exploration of how convolutional neural networks learn and organize visual information internally.
+
+### Highlights
+
+- Feature-map visualization
+- PCA analysis
+- Confidence analysis
+- Confusion matrices
+- Grad-CAM
+- Representation visualization
+
+<br/>
+
+<a href="https://github.com/aacaas5/visual-representation-analysis-cnn">
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`CNN` `PyTorch` `Grad-CAM` `Interpretability`
+
+</td>
+
+</tr>
+</table>
+
+> ⚕️ The skin-lesion project is a research prototype and is **not a validated medical device**.
+
+---
+
+## 🤖 Robotics • Autonomous Systems • Embedded Intelligence
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚁 Autonomous Bathymetric Survey System
+
+**ROS 2 • ArduPilot • Computer Vision • Autonomy**
+
+A complete autonomous reservoir-survey platform integrating mission planning, robotic navigation, environmental sensing, computer vision and bathymetric mapping.
+
+### Highlights
+
+- ROS 2 + ArduPilot integration
+- Autonomous survey missions
+- Waypoint navigation
+- Environmental perception
+- Sonar depth acquisition
+- Water / soil detection
+- Real-time telemetry
+- Interactive 3D bathymetric visualization
+- **Top 50 — SPARC Competition**
+
+<br/>
+
+<a href="https://github.com/aacaas5/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot">
+<img src="https://img.shields.io/badge/View_Project-00AEEF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`ROS 2` `ArduPilot` `Gazebo` `OpenCV` `React` `Three.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Autonomous Smart Garden Robot
+
+**AI • Embedded Systems • Robotics • Instrumentation**
+
+A physical robotic platform connecting perception, sensing, embedded control, data acquisition and actuation.
+
+### Highlights
+
+- Autonomous pot navigation
+- Computer-vision weed detection
+- Camera-based plant analysis
+- Arduino / ESP32 control
+- Motor and servo actuation
+- IR and soil sensing
+- NI DAQ + LabVIEW
+- Web telemetry
+- Sensor-to-action workflow
+
+<br/>
+
+<a href="https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots">
+<img src="https://img.shields.io/badge/View_Project-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Python` `OpenCV` `Arduino` `ESP32` `LabVIEW` `NI DAQ`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚡ Electrical • Control • Instrumentation
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☀️ Dual-Axis Solar Tracking System
+
+**Control Systems • Renewable Energy • MATLAB**
+
+A photovoltaic tracking system combining electrical, mechanical and control-system modelling for automatic solar-panel orientation.
+
+### Highlights
+
+- Azimuth and elevation modelling
+- DC-motor dynamics
+- MATLAB / Simulink plant model
+- Model Predictive Control
+- Closed-loop tracking
+- Renewable-energy application
+- Electrical + mechanical integration
+
+<br/>
+
+<a href="https://github.com/aacaas5/dual-axis-solar-tracking-system">
+<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`MATLAB` `Simulink` `MPC` `Control` `Renewable Energy`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Advanced Light Intensity Indicator
+
+**Electronics • Instrumentation • Sensors**
+
+A hardware-oriented sensing and signal-processing system for stable real-time light-intensity monitoring.
+
+### Highlights
+
+- LDR sensing
+- Signal conditioning
+- Noise filtering
+- Stability control
+- Configurable averaging
+- Digital display logic
+- Real-time monitoring
+- Instrumentation design
+
+<br/>
+
+<a href="https://github.com/aacaas5/The-Advanced-Light-Intensity-Indicator-ALII-Module">
+<img src="https://img.shields.io/badge/View_Project-FFC107?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+`Electronics` `Instrumentation` `Sensors` `Signal Processing`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🗂️ More Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👤 Real-Time Face Recognition
+
+Local enrollment and embedding-based face recognition with unknown-person rejection.
+
+**Features**
+
+- HOG face detection
+- 128-dimensional embeddings
+- Euclidean matching
+- Threshold rejection
+- Runtime benchmarking
+
+<a href="https://github.com/aacaas5/real-time-face-recognition-embedding-matching">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`OpenCV` `Face Embeddings` `Recognition`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔢 Handwritten Digit Recognition
+
+A fully connected PyTorch neural network trained and evaluated on MNIST.
+
+**Focus**
+
+- Neural-network fundamentals
+- Classification
+- Training and evaluation
+- PyTorch implementation
+
+<a href="https://github.com/aacaas5/handwritten-digit-recognition">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`PyTorch` `MNIST` `Neural Networks`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📉 Gradient Descent Optimization Lab
+
+A focused exploration of gradient-based optimization and machine-learning fundamentals.
+
+**Focus**
+
+- Optimization
+- Mathematical reasoning
+- Gradient descent
+- Learning dynamics
+
+<a href="https://github.com/aacaas5/gradient-descent-optimization-lab">
+<img src="https://img.shields.io/badge/View_Project-9333EA?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Optimization` `Machine Learning` `Mathematics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌿 Smart Garden Monitor
+
+A TypeScript-based interface for engineering monitoring and smart-garden telemetry.
+
+**Focus**
+
+- Web telemetry
+- Engineering monitoring
+- TypeScript
+- Interface development
+
+<a href="https://github.com/aacaas5/smart_garden_monitor">
+<img src="https://img.shields.io/badge/View_Project-00A86B?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`TypeScript` `Telemetry` `Monitoring`
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/aacaas5?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -97,17 +541,16 @@ My main areas of interest are:
 ## ⚡ Electrical & Control Engineering
 
 - Electrical engineering systems
-- Control systems
+- Mathematical modelling
 - Feedback control
 - Model Predictive Control
-- DC motor modelling
+- DC-motor modelling
 - MATLAB / Simulink
-- Renewable energy systems
+- Renewable-energy systems
 - Instrumentation
 - Data acquisition
 - Engineering simulation
 - Sensor-based system design
-- Mathematical modelling
 
 </td>
 
@@ -119,7 +562,6 @@ My main areas of interest are:
 - Neural networks
 - Random Forests
 - Classification
-- Regression
 - Predictive maintenance
 - Anomaly detection
 - Optimization
@@ -189,7 +631,6 @@ My main areas of interest are:
 - Sensor-to-action systems
 - Autonomous survey systems
 - Real-time telemetry
-- Embedded robotics
 
 </td>
 
@@ -216,509 +657,13 @@ My main areas of interest are:
 
 ---
 
-# ⚡ Electrical, Control & Embedded Engineering
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☀️ Dual-Axis Solar Tracking System
-
-**Control Systems • Renewable Energy • MATLAB**
-
-A photovoltaic tracking system combining **electrical, mechanical and control-system modelling** for automatic solar-panel orientation.
-
-### Highlights
-
-- Azimuth and elevation modelling
-- DC motor dynamics
-- MATLAB / Simulink plant model
-- Model Predictive Control
-- Closed-loop tracking
-- Renewable-energy application
-- Electrical + mechanical integration
-
-<br/>
-
-<a href="https://github.com/aacaas5/dual-axis-solar-tracking-system">
-<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`MATLAB` `Simulink` `MPC` `Control` `Renewable Energy`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 Advanced Light Intensity Indicator
-
-**Electronics • Instrumentation • Sensors**
-
-A hardware-oriented light-monitoring system designed for stable real-time intensity measurement and indication.
-
-### Highlights
-
-- LDR sensing
-- Signal conditioning
-- Noise filtering
-- Configurable averaging
-- Stability control
-- Digital display logic
-- Real-time monitoring
-- Instrumentation design
-
-<br/>
-
-<a href="https://github.com/aacaas5/The-Advanced-Light-Intensity-Indicator-ALII-Module">
-<img src="https://img.shields.io/badge/View_Project-FFC107?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-`Electronics` `Instrumentation` `Sensors` `Signal Processing`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Machine Learning & Engineering Intelligence
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Reliable Machine-Failure Prediction
-
-**Machine Learning • Predictive Maintenance**
-
-A machine-learning study focused on predicting equipment failures while testing model reliability under realistic sensor problems.
-
-### Highlights
-
-- Random Forest classification
-- Predictive maintenance
-- Class imbalance analysis
-- Sensor noise experiments
-- Missing measurement experiments
-- Limited training-data evaluation
-- SHAP-based explainability
-- Failure analysis
-
-### Performance
-
-- Accuracy: `97.27%`
-- Recall: `82.35%`
-- Average Precision: `78.03%`
-
-<br/>
-
-<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data">
-<img src="https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Machine Learning` `Random Forest` `SHAP` `Sensor Data`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔢 Handwritten Digit Recognition
-
-**Neural Networks • Deep Learning Fundamentals**
-
-A neural-network implementation for handwritten-digit classification using the MNIST dataset.
-
-### Highlights
-
-- Fully connected neural network
-- PyTorch implementation
-- Model training
-- Classification
-- Performance evaluation
-- Deep-learning fundamentals
-
-<br/>
-
-<a href="https://github.com/aacaas5/handwritten-digit-recognition">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`PyTorch` `Neural Networks` `MNIST` `Classification`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔌 Embedded Systems, Sensors & Instrumentation
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌱 Smart Garden Embedded System
-
-**Embedded Systems • Sensors • Actuation**
-
-An engineering platform combining embedded sensing, motor control, data acquisition and physical actuation.
-
-### Hardware & Control
-
-- Arduino
-- ESP32
-- IR sensors
-- Soil sensing
-- Motors
-- Servo control
-- Embedded communication
-- Sensor integration
-- Data acquisition
-- Physical actuation
-
-<br/>
-
-<a href="https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots">
-<img src="https://img.shields.io/badge/View_Project-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Arduino` `ESP32` `Sensors` `Motors` `LabVIEW`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Engineering Data Acquisition
-
-**Instrumentation • LabVIEW • NI DAQ**
-
-Experience integrating physical sensors with software-based monitoring and control.
-
-### Areas
-
-- NI DAQ
-- LabVIEW
-- Sensor acquisition
-- Signal monitoring
-- Serial communication
-- TCP/IP communication
-- Hardware-software interfacing
-- Real-time engineering data
-
-<br/><br/>
-
-`NI DAQ` `LabVIEW` `Instrumentation` `Sensors`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤖 Robotics & Autonomous Systems
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚁 Autonomous Bathymetric Survey System
-
-**ROS 2 • ArduPilot • Autonomous Navigation**
-
-A complete autonomous reservoir-survey platform integrating navigation, sensing, perception, depth acquisition and bathymetric mapping.
-
-### Highlights
-
-- ROS 2 + ArduPilot integration
-- Autonomous survey missions
-- Waypoint navigation
-- Environmental sensing
-- Sonar depth acquisition
-- Water / soil perception
-- Bathymetric visualization
-- Real-time telemetry
-- Interactive 3D terrain mapping
-- **Top 50 — SPARC Competition**
-
-<br/>
-
-<a href="https://github.com/aacaas5/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot">
-<img src="https://img.shields.io/badge/View_Project-00AEEF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`ROS 2` `ArduPilot` `Gazebo` `OpenCV` `Autonomy`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Autonomous Smart Garden Robot
-
-**Robotics • Embedded Systems • Computer Vision**
-
-A physical robotic platform connecting **sensing, perception, embedded control, data acquisition and actuation**.
-
-### Highlights
-
-- Autonomous pot navigation
-- Camera-based plant analysis
-- Weed detection
-- Arduino / ESP32 control
-- Motor and servo control
-- NI DAQ + LabVIEW
-- Soil sensing
-- Web telemetry
-- Sensor-to-action workflow
-
-<br/>
-
-<a href="https://github.com/aacaas5/Autonomous-Smart-Robot-for-Weed-Detection-and-Treatment-in-Pots">
-<img src="https://img.shields.io/badge/View_Project-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Python` `OpenCV` `Arduino` `ESP32` `LabVIEW` `NI DAQ`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 👁️ Computer Vision & Multimodal AI
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 Real-Time Object Detection Robustness
-
-**Computer Vision • YOLO • Real-Time AI**
-
-A real-time object-detection system and experimental study investigating how visual conditions affect model behaviour.
-
-### Evaluated
-
-- Low light
-- Blur
-- Scale changes
-- Occlusion
-- Confidence thresholds
-- Detection count
-- FPS
-- Latency
-
-<br/>
-
-<a href="https://github.com/aacaas5/real-time-object-detection-robustness-analysis">
-<img src="https://img.shields.io/badge/View_Project-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`YOLO` `OpenCV` `Streamlit` `Computer Vision`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👤 Real-Time Face Recognition
-
-**Computer Vision • Embedding Matching**
-
-A local face-recognition pipeline based on visual embeddings and unknown-person rejection.
-
-### Features
-
-- Local enrollment
-- HOG detection
-- 128-dimensional embeddings
-- Euclidean matching
-- Threshold rejection
-- Runtime benchmarking
-- Evaluation infrastructure
-
-<br/>
-
-<a href="https://github.com/aacaas5/real-time-face-recognition-embedding-matching">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Face Embeddings` `OpenCV` `Recognition` `Evaluation`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛡️ Reliable AI & Research
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Evidence-Order Calibration for VLMs
-
-**Vision-Language Models • Reliability**
-
-Studying whether a Vision-Language Model's confidence correctly follows the progressive loss of question-critical visual evidence.
-
-### Highlights
-
-- Five-level evidence-loss trajectories
-- Lightweight ordinal reliability head
-- Masking EMVR: `0.330 → 0.303`
-- Held-out blur transfer evaluation
-- Controlled masking experiments
-- Calibration and uncertainty analysis
-- Paper-backed research study
-
-<br/>
-
-<a href="https://github.com/aacaas5/evidence-order-calibration-vlm">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`Qwen2.5-VL` `PyTorch` `GQA` `Calibration` `Reliability`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔍 ShiftSplit-AD
-
-**Domain Shift • Visual Anomaly Detection**
-
-Investigating whether benign distribution shift can be separated from genuine industrial defects using frozen DINOv2 representations.
-
-### Highlights
-
-- Frozen DINOv2 representations
-- Residual decomposition
-- Low-rank + row-sparse modelling
-- AeBAD-S AUROC: `0.6780 → 0.7294`
-- Held-out-domain analysis
-- Bootstrap uncertainty evaluation
-- Failure-mode analysis
-
-<br/>
-
-<a href="https://github.com/aacaas5/ShiftSplit-AD">
-<img src="https://img.shields.io/badge/View_Project-F72585?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`DINOv2` `PyTorch` `Anomaly Detection` `Domain Shift`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🩺 Dual-Signal OOD Gating
-
-**Open-Set Recognition • Reliable AI**
-
-A skin-lesion classification pipeline combining a classifier with complementary out-of-distribution rejection signals.
-
-### Highlights
-
-- ResNet50 classifier
-- ViT representation-distance signal
-- Energy + ReAct scoring
-- Open-set rejection
-- Unsupported-input detection
-- Confidence and threshold analysis
-- Reliability-focused evaluation
-
-<br/>
-
-<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection">
-<img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`ResNet50` `ViT` `OOD Detection` `Open-Set Recognition`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧬 Visual Representation Analysis
-
-**CNNs • Interpretability • Representation Learning**
-
-Exploring how convolutional neural networks represent visual information internally.
-
-### Highlights
-
-- Feature maps
-- PCA
-- Confidence analysis
-- Confusion matrices
-- Grad-CAM
-- Representation visualization
-
-<br/>
-
-<a href="https://github.com/aacaas5/visual-representation-analysis-cnn">
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-`CNN` `PyTorch` `Grad-CAM` `Interpretability`
-
-</td>
-
-</tr>
-</table>
-
-> ⚕️ The skin-lesion project is a research prototype and is **not a validated medical device**.
-
----
-
 # 🧰 Technical Stack
 
 <div align="center">
 
 ## ⚡ Electrical • Control • Simulation
 
-<img src="https://skillicons.dev/icons?i=matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=matlab&theme=dark"/>
 
 <br/><br/>
 
@@ -735,7 +680,7 @@ Exploring how convolutional neural networks represent visual information interna
 
 ## 🧠 Machine Learning • Artificial Intelligence
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark"/>
 
 <br/><br/>
 
@@ -752,7 +697,7 @@ Exploring how convolutional neural networks represent visual information interna
 
 ## 🔌 Embedded • Sensors • Instrumentation
 
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
 
 <br/><br/>
 
@@ -768,7 +713,7 @@ Exploring how convolutional neural networks represent visual information interna
 
 ## 👁️ Computer Vision • Multimodal AI
 
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
 
 <br/><br/>
 
@@ -783,7 +728,7 @@ Exploring how convolutional neural networks represent visual information interna
 
 ## 🤖 Robotics • Autonomous Systems
 
-<img src="https://skillicons.dev/icons?i=ros&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ros&theme=dark"/>
 
 <br/><br/>
 
@@ -810,7 +755,7 @@ Exploring how convolutional neural networks represent visual information interna
 
 ## 💻 Programming & Development
 
-<img src="https://skillicons.dev/icons?i=py,cpp,matlab,java,js,ts,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab,java,js,ts,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
@@ -849,7 +794,7 @@ Reproducibility
 
 ### My Approach
 
-**Understand the physical system → model it → build it → measure it → test its limits → improve it.**
+**Understand the system → model it → build it → measure it → test its limits → improve it.**
 
 I do not only ask:
 
@@ -859,35 +804,14 @@ I also ask:
 
 **“Why does it work?”**  
 **“When does it fail?”**  
-**“Can we measure that failure?”**  
+**“Can that failure be measured?”**  
 **“Can the result be reproduced?”**
 
 </div>
 
 ---
 
-# 🗂️ More Projects
-
-| 🚀 Project | 🔬 What It Demonstrates | 🧰 Focus |
-|---|---|---|
-| [Visual Representation Analysis with CNNs](https://github.com/aacaas5/visual-representation-analysis-cnn) | Feature maps, PCA, confidence analysis, confusion matrices and Grad-CAM | PyTorch • CNN • XAI |
-| [Handwritten Digit Recognition](https://github.com/aacaas5/handwritten-digit-recognition) | Neural-network fundamentals | PyTorch • Machine Learning |
-| [Gradient Descent Optimization Lab](https://github.com/aacaas5/gradient-descent-optimization-lab) | First-principles optimization experiments | ML • Mathematics |
-| [Smart Garden Monitor](https://github.com/aacaas5/smart_garden_monitor) | Web-based engineering monitoring | TypeScript • Telemetry |
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/aacaas5?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🌟 Engineering Values
+# 🌟 Engineering & Research Values
 
 <table>
 
@@ -905,11 +829,11 @@ Understand the physical system and its constraints.
 
 <td align="center" width="25%">
 
-### 📐
+### 🧠
 
-**Mathematical Reasoning**
+**Intelligent Systems**
 
-Model and understand before making claims.
+Use learning where it meaningfully improves the system.
 
 </td>
 
@@ -919,7 +843,7 @@ Model and understand before making claims.
 
 **Measurement**
 
-Support conclusions with controlled experiments.
+Support conclusions with quantitative experiments.
 
 </td>
 
@@ -974,14 +898,14 @@ Engineering and research should be repeatable.
 
 <div align="center">
 
-I am interested in engineering, research and collaboration involving
+Interested in engineering, research and collaboration involving
 
 ### ⚡ Electrical Engineering
 ### 🧠 Machine Learning & Artificial Intelligence
 ### 🔌 Embedded Systems & Instrumentation
 ### 👁️ Computer Vision & Multimodal AI
 ### 🤖 Robotics & Autonomous Systems
-### 🛡️ Reliable AI & Intelligent Systems
+### 🛡️ Reliable AI
 
 <br/>
 
@@ -999,7 +923,7 @@ I am interested in engineering, research and collaboration involving
 
 <br/><br/>
 
-### ⚡ Electrical Engineering • 🧠 Machine Learning • 🔌 Embedded Systems • 🤖 Intelligent Machines
+### ⚡ Electrical Engineering • 🧠 Artificial Intelligence • 🤖 Intelligent Systems
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,25:00D4FF,50:7C3AED,75:F72585,100:FF8C42&height=140&section=footer"
