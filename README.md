@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/aacaas-muhamath-023765430">
+<a href="https://www.linkedin.com/in/aacaas-muhamath-023765430/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
